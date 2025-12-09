@@ -24,7 +24,7 @@ repository               : "hithisisjayden/hithisisjayden.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name : "hithisisjayden"   
+  name: "hithisisjayden" 
   pronouns         : # example: "she/her"
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
