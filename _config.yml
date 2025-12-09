@@ -24,8 +24,8 @@ repository               : "hithisisjayden/hithisisjayden.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "hithisisjayden"    
-  pronouns         : # example: "she/her"  
+  name             : "hithisisjayden"   
+  pronouns         : # example: "she/her"
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
